@@ -1,0 +1,54 @@
+avg fitness is 11.153897241945742. 
+total attack number is 32,total success number is 35 
+avg success rate is 1.09375. 
+avg target rate is 0.0. 
+avg miss rate is 1.09375. 
+
+avg fitness is 8.73184990574373. 
+total attack number is 32,total success number is 32 
+avg success rate is 1.0. 
+avg target rate is 0.0. 
+avg miss rate is 1.0. 
+
+avg fitness is 12.123119754658546. 
+total attack number is 32,total success number is 39 
+avg success rate is 1.21875. 
+avg target rate is 0.0. 
+avg miss rate is 1.21875. 
+
+avg fitness is 8.10834688169416. 
+total attack number is 32,total success number is 26 
+avg success rate is 0.8125. 
+avg target rate is 0.0. 
+avg miss rate is 0.8125. 
+
+avg fitness is 7.8009049037937075. 
+total attack number is 32,total success number is 22 
+avg success rate is 0.6875. 
+avg target rate is 0.0. 
+avg miss rate is 0.6875. 
+
+avg fitness is 7.422276390832849. 
+total attack number is 32,total success number is 22 
+avg success rate is 0.6875. 
+avg target rate is 0.0. 
+avg miss rate is 0.6875. 
+
+avg fitness is 7.2521134309936315. 
+total attack number is 32,total success number is 18 
+avg success rate is 0.5625. 
+avg target rate is 0.0. 
+avg miss rate is 0.5625. 
+
+avg fitness is 0.0. 
+total attack number is 32,total success number is 0 
+avg success rate is 0.0. 
+avg target rate is 0.0. 
+avg miss rate is 0.0. 
+
+avg fitness is 10.610066788853146. 
+total attack number is 32,total success number is 33 
+avg success rate is 1.03125. 
+avg target rate is 0.0. 
+avg miss rate is 1.03125. 
+

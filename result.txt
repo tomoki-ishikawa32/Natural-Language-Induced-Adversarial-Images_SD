@@ -1,0 +1,992 @@
+The image index is 0, current round is 1.
+The image index is 0, current round is 1.
+The image index is 0, current round is 1.
+The image index is 0, current round is 1.
+The image index is 0, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.7202130854129791 
+The image's natural score is:0.07662602514028549 
+
+resnet says it is it is not a convertible car,and the probability is:0.7535640448331833 
+The image's natural score is:0.23953858017921448 
+
+resnet says it is it is not a convertible car,and the probability is:0.7669002413749695 
+The image's natural score is:0.22743943333625793 
+
+resnet says it is it is not a convertible car,and the probability is:0.9566821530461311 
+The image's natural score is:0.0620802566409111 
+
+The image index is 0, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.674023449420929 
+The image's natural score is:0.1689634472131729 
+
+resnet says it is a convertible car,and the probability is:0.6772826313972473 
+The image's natural score is:0.10526224225759506 
+
+resnet says it is it is not a convertible car,and the probability is:0.9575598314404488 
+The image's natural score is:0.018154891207814217 
+
+resnet says it is it is not a convertible car,and the probability is:0.7526051104068756 
+The image's natural score is:0.09790422022342682 
+
+The image index is 1, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9127044752240181 
+The image's natural score is:0.1806923896074295 
+
+resnet says it is it is not a convertible car,and the probability is:0.96788265183568 
+The image's natural score is:0.3998345732688904 
+
+resnet says it is it is not a convertible car,and the probability is:0.843204528093338 
+The image's natural score is:0.13758216798305511 
+
+resnet says it is it is not a convertible car,and the probability is:0.7422368824481964 
+The image's natural score is:0.10920944064855576 
+
+The image index is 1, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9639544747769833 
+The image's natural score is:0.17448242008686066 
+
+resnet says it is it is not a convertible car,and the probability is:0.9453182741999626 
+The image's natural score is:0.1945982277393341 
+
+resnet says it is it is not a convertible car,and the probability is:0.8263402730226517 
+The image's natural score is:0.1160992905497551 
+
+resnet says it is a convertible car,and the probability is:0.32255682349205017 
+The image's natural score is:0.2903980314731598 
+
+The image index is 2, current round is 1.
+resnet says it is a convertible car,and the probability is:0.6055797338485718 
+The image's natural score is:0.329031765460968 
+
+resnet says it is a convertible car,and the probability is:0.5593122839927673 
+The image's natural score is:0.2951011061668396 
+
+resnet says it is a convertible car,and the probability is:0.3431849777698517 
+The image's natural score is:0.27107518911361694 
+
+resnet says it is it is not a convertible car,and the probability is:0.8785830363631248 
+The image's natural score is:0.08696892857551575 
+
+The image index is 2, current round is 2.
+resnet says it is a convertible car,and the probability is:0.8829032778739929 
+The image's natural score is:0.4146183431148529 
+
+resnet says it is a convertible car,and the probability is:0.6237463355064392 
+The image's natural score is:0.3644924759864807 
+
+resnet says it is it is not a convertible car,and the probability is:0.9839028920978308 
+The image's natural score is:0.09119071811437607 
+
+resnet says it is it is not a convertible car,and the probability is:0.8420683294534683 
+The image's natural score is:0.022738389670848846 
+
+The image index is 3, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.8073265701532364 
+The image's natural score is:0.3544503450393677 
+
+resnet says it is it is not a convertible car,and the probability is:0.6003458499908447 
+The image's natural score is:0.40292593836784363 
+
+resnet says it is a convertible car,and the probability is:0.4353138208389282 
+The image's natural score is:0.21662020683288574 
+
+resnet says it is a convertible car,and the probability is:0.7979475259780884 
+The image's natural score is:0.4266490340232849 
+
+The image index is 3, current round is 2.
+resnet says it is a convertible car,and the probability is:0.2961274981498718 
+The image's natural score is:0.3677440285682678 
+
+resnet says it is a convertible car,and the probability is:0.5241674780845642 
+The image's natural score is:0.4898018538951874 
+
+resnet says it is a convertible car,and the probability is:0.6908633708953857 
+The image's natural score is:0.3693211078643799 
+
+resnet says it is a convertible car,and the probability is:0.3851087689399719 
+The image's natural score is:0.4913962781429291 
+
+The image index is 4, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.7221853733062744 
+The image's natural score is:0.2996615171432495 
+
+resnet says it is it is not a convertible car,and the probability is:0.8888839110732079 
+The image's natural score is:0.3777811527252197 
+
+resnet says it is it is not a convertible car,and the probability is:0.9232775419950485 
+The image's natural score is:0.004203720949590206 
+
+resnet says it is it is not a convertible car,and the probability is:0.9697190504521132 
+The image's natural score is:0.011626592837274075 
+
+The image index is 4, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9090064167976379 
+The image's natural score is:0.156663715839386 
+
+resnet says it is it is not a convertible car,and the probability is:0.9738544654101133 
+The image's natural score is:0.2687419056892395 
+
+resnet says it is it is not a convertible car,and the probability is:0.9256284460425377 
+The image's natural score is:0.02295362763106823 
+
+resnet says it is it is not a convertible car,and the probability is:0.9718002285808325 
+The image's natural score is:0.01855531707406044 
+
+The image index is 5, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.7740458548069 
+The image's natural score is:0.0030218458268791437 
+
+resnet says it is it is not a convertible car,and the probability is:0.6147336065769196 
+The image's natural score is:0.005590096116065979 
+
+resnet says it is it is not a convertible car,and the probability is:0.9841138273477554 
+The image's natural score is:0.00011407896818127483 
+
+resnet says it is it is not a convertible car,and the probability is:0.993456712923944 
+The image's natural score is:0.011796153150498867 
+
+The image index is 5, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9313252195715904 
+The image's natural score is:0.0111004076898098 
+
+resnet says it is it is not a convertible car,and the probability is:0.9419731087982655 
+The image's natural score is:0.0019040985498577356 
+
+resnet says it is it is not a convertible car,and the probability is:0.8466944694519043 
+The image's natural score is:0.01249624416232109 
+
+resnet says it is it is not a convertible car,and the probability is:0.6942607462406158 
+The image's natural score is:0.00010654073412297294 
+
+The image index is 0, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9972034192178398 
+The image's natural score is:0.14335353672504425 
+
+resnet says it is it is not a convertible car,and the probability is:0.995155539829284 
+The image's natural score is:0.29929086565971375 
+
+resnet says it is it is not a convertible car,and the probability is:0.9361895844340324 
+The image's natural score is:0.1383168250322342 
+
+resnet says it is it is not a convertible car,and the probability is:0.9319643005728722 
+The image's natural score is:0.07478874176740646 
+
+The image index is 0, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9351445958018303 
+The image's natural score is:0.3169955611228943 
+
+resnet says it is it is not a convertible car,and the probability is:0.9516085349023342 
+The image's natural score is:0.17818549275398254 
+
+resnet says it is it is not a convertible car,and the probability is:0.9856642633676529 
+The image's natural score is:0.13305380940437317 
+
+resnet says it is it is not a convertible car,and the probability is:0.9840730801224709 
+The image's natural score is:0.02547963336110115 
+
+The image index is 1, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.8966214880347252 
+The image's natural score is:0.23887059092521667 
+
+resnet says it is it is not a convertible car,and the probability is:0.8454183340072632 
+The image's natural score is:0.24614651501178741 
+
+resnet says it is it is not a convertible car,and the probability is:0.9903511172160506 
+The image's natural score is:0.04421057179570198 
+
+resnet says it is it is not a convertible car,and the probability is:0.9684926643967628 
+The image's natural score is:0.029580114409327507 
+
+The image index is 1, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.7761910706758499 
+The image's natural score is:0.2302434891462326 
+
+resnet says it is it is not a convertible car,and the probability is:0.8868669494986534 
+The image's natural score is:0.26434871554374695 
+
+resnet says it is it is not a convertible car,and the probability is:0.9704062324017286 
+The image's natural score is:0.05604859068989754 
+
+resnet says it is it is not a convertible car,and the probability is:0.9708466045558453 
+The image's natural score is:0.0435098372399807 
+
+The image index is 2, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.8446530252695084 
+The image's natural score is:0.23687498271465302 
+
+resnet says it is it is not a convertible car,and the probability is:0.8470630943775177 
+The image's natural score is:0.32676154375076294 
+
+resnet says it is it is not a convertible car,and the probability is:0.9448528848588467 
+The image's natural score is:0.011433898471295834 
+
+resnet says it is it is not a convertible car,and the probability is:0.9721127785742283 
+The image's natural score is:0.00449115177616477 
+
+The image index is 2, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9172318801283836 
+The image's natural score is:0.23921586573123932 
+
+resnet says it is it is not a convertible car,and the probability is:0.9716816861182451 
+The image's natural score is:0.3770546019077301 
+
+resnet says it is it is not a convertible car,and the probability is:0.9440254010260105 
+The image's natural score is:0.0046067568473517895 
+
+resnet says it is it is not a convertible car,and the probability is:0.9874707590788603 
+The image's natural score is:0.01191193051636219 
+
+The image index is 3, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.7867097407579422 
+The image's natural score is:0.30568259954452515 
+
+resnet says it is it is not a convertible car,and the probability is:0.9845661260187626 
+The image's natural score is:0.1799856275320053 
+
+resnet says it is it is not a convertible car,and the probability is:0.9590896144509315 
+The image's natural score is:0.007592855952680111 
+
+resnet says it is it is not a convertible car,and the probability is:0.9811035022139549 
+The image's natural score is:0.015167909674346447 
+
+The image index is 3, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9232761338353157 
+The image's natural score is:0.355502724647522 
+
+resnet says it is it is not a convertible car,and the probability is:0.9380129128694534 
+The image's natural score is:0.4069838225841522 
+
+resnet says it is it is not a convertible car,and the probability is:0.9926291494630277 
+The image's natural score is:0.004592301324009895 
+
+resnet says it is it is not a convertible car,and the probability is:0.9541481621563435 
+The image's natural score is:0.00629352917894721 
+
+The image index is 0, current round is 1.
+resnet says it is a convertible car,and the probability is:0.5989514589309692 
+The image's natural score is:0.19594426453113556 
+
+resnet says it is it is not a convertible car,and the probability is:0.6621053516864777 
+The image's natural score is:0.1928592473268509 
+
+resnet says it is a convertible car,and the probability is:0.7241153120994568 
+The image's natural score is:0.10274194926023483 
+
+resnet says it is it is not a convertible car,and the probability is:0.7200228273868561 
+The image's natural score is:0.05043377727270126 
+
+The image index is 0, current round is 2.
+resnet says it is a convertible car,and the probability is:0.3470953404903412 
+The image's natural score is:0.09724171459674835 
+
+resnet says it is it is not a convertible car,and the probability is:0.7015432715415955 
+The image's natural score is:0.23603202402591705 
+
+resnet says it is a convertible car,and the probability is:0.9236476421356201 
+The image's natural score is:0.026792636141180992 
+
+resnet says it is a convertible car,and the probability is:0.538893461227417 
+The image's natural score is:0.08143702894449234 
+
+The image index is 1, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.965302150696516 
+The image's natural score is:0.16530925035476685 
+
+resnet says it is it is not a convertible car,and the probability is:0.8879739716649055 
+The image's natural score is:0.28859013319015503 
+
+resnet says it is a convertible car,and the probability is:0.3498936891555786 
+The image's natural score is:0.1922754943370819 
+
+resnet says it is it is not a convertible car,and the probability is:0.7733793407678604 
+The image's natural score is:0.13350296020507812 
+
+The image index is 1, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9410672783851624 
+The image's natural score is:0.28226447105407715 
+
+resnet says it is it is not a convertible car,and the probability is:0.9972117107827216 
+The image's natural score is:0.25339964032173157 
+
+resnet says it is it is not a convertible car,and the probability is:0.7149310410022736 
+The image's natural score is:0.1954045444726944 
+
+resnet says it is it is not a convertible car,and the probability is:0.8173768371343613 
+The image's natural score is:0.05921006575226784 
+
+The image index is 2, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9718899466097355 
+The image's natural score is:0.353799045085907 
+
+resnet says it is it is not a convertible car,and the probability is:0.955397754907608 
+The image's natural score is:0.32751116156578064 
+
+resnet says it is it is not a convertible car,and the probability is:0.930158942937851 
+The image's natural score is:0.009812334552407265 
+
+resnet says it is a convertible car,and the probability is:0.5131479501724243 
+The image's natural score is:0.0414140447974205 
+
+The image index is 2, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.7839486449956894 
+The image's natural score is:0.3331110179424286 
+
+resnet says it is it is not a convertible car,and the probability is:0.9062240645289421 
+The image's natural score is:0.297613263130188 
+
+resnet says it is it is not a convertible car,and the probability is:0.8061434775590897 
+The image's natural score is:0.03375250846147537 
+
+resnet says it is it is not a convertible car,and the probability is:0.7643747627735138 
+The image's natural score is:0.02249637059867382 
+
+The image index is 3, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9486275650560856 
+The image's natural score is:0.3805149793624878 
+
+resnet says it is it is not a convertible car,and the probability is:0.8976312950253487 
+The image's natural score is:0.27927520871162415 
+
+resnet says it is it is not a convertible car,and the probability is:0.9952850034460425 
+The image's natural score is:0.02859683148562908 
+
+resnet says it is it is not a convertible car,and the probability is:0.9909378383308649 
+The image's natural score is:0.04007251188158989 
+
+The image index is 3, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9514480233192444 
+The image's natural score is:0.1980055719614029 
+
+resnet says it is it is not a convertible car,and the probability is:0.9789400212466717 
+The image's natural score is:0.14162702858448029 
+
+resnet says it is it is not a convertible car,and the probability is:0.8832717314362526 
+The image's natural score is:0.18116211891174316 
+
+resnet says it is a convertible car,and the probability is:0.4307085871696472 
+The image's natural score is:0.4217502474784851 
+
+The image index is 4, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.8918343931436539 
+The image's natural score is:0.26598796248435974 
+
+resnet says it is it is not a convertible car,and the probability is:0.9684174433350563 
+The image's natural score is:0.3406479060649872 
+
+resnet says it is it is not a convertible car,and the probability is:0.9972036280669272 
+The image's natural score is:0.06524164974689484 
+
+resnet says it is it is not a convertible car,and the probability is:0.9962519062682986 
+The image's natural score is:0.2884153127670288 
+
+The image index is 4, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.897427462041378 
+The image's natural score is:0.33290693163871765 
+
+resnet says it is it is not a convertible car,and the probability is:0.8184524923563004 
+The image's natural score is:0.42876026034355164 
+
+resnet says it is it is not a convertible car,and the probability is:0.9614422172307968 
+The image's natural score is:0.040442753583192825 
+
+resnet says it is it is not a convertible car,and the probability is:0.9460423700511456 
+The image's natural score is:0.022348864004015923 
+
+The image index is 5, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9703700672835112 
+The image's natural score is:0.26412126421928406 
+
+resnet says it is it is not a convertible car,and the probability is:0.9147765338420868 
+The image's natural score is:0.25922664999961853 
+
+resnet says it is it is not a convertible car,and the probability is:0.9456691741943359 
+The image's natural score is:0.0963684618473053 
+
+resnet says it is it is not a convertible car,and the probability is:0.9447244927287102 
+The image's natural score is:0.22005107998847961 
+
+The image index is 5, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.917195126414299 
+The image's natural score is:0.2240867018699646 
+
+resnet says it is a convertible car,and the probability is:0.4105668365955353 
+The image's natural score is:0.36532291769981384 
+
+resnet says it is it is not a convertible car,and the probability is:0.9080056995153427 
+The image's natural score is:0.267577201128006 
+
+resnet says it is it is not a convertible car,and the probability is:0.8969660848379135 
+The image's natural score is:0.2840679883956909 
+
+The image index is 0, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9696191791445017 
+The image's natural score is:0.18424522876739502 
+
+resnet says it is it is not a convertible car,and the probability is:0.8936151042580605 
+The image's natural score is:0.23682528734207153 
+
+resnet says it is a convertible car,and the probability is:0.4463184177875519 
+The image's natural score is:0.03563550114631653 
+
+resnet says it is it is not a convertible car,and the probability is:0.9859617948532104 
+The image's natural score is:0.02853015623986721 
+
+The image index is 0, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9805593378841877 
+The image's natural score is:0.28116923570632935 
+
+resnet says it is a convertible car,and the probability is:0.3267248272895813 
+The image's natural score is:0.3974180221557617 
+
+resnet says it is it is not a convertible car,and the probability is:0.9865218577906489 
+The image's natural score is:0.01883343793451786 
+
+resnet says it is it is not a convertible car,and the probability is:0.8835089728236198 
+The image's natural score is:0.021687963977456093 
+
+The image index is 1, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9951398870907724 
+The image's natural score is:0.11997269093990326 
+
+resnet says it is it is not a convertible car,and the probability is:0.7633866220712662 
+The image's natural score is:0.2711977958679199 
+
+resnet says it is a convertible car,and the probability is:0.5273730754852295 
+The image's natural score is:0.17913180589675903 
+
+resnet says it is it is not a convertible car,and the probability is:0.7524976879358292 
+The image's natural score is:0.21602022647857666 
+
+The image index is 1, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9857920100912452 
+The image's natural score is:0.18391601741313934 
+
+resnet says it is it is not a convertible car,and the probability is:0.9521214738488197 
+The image's natural score is:0.19922858476638794 
+
+resnet says it is it is not a convertible car,and the probability is:0.9055931866168976 
+The image's natural score is:0.2995808720588684 
+
+resnet says it is it is not a convertible car,and the probability is:0.8976336643099785 
+The image's natural score is:0.25959259271621704 
+
+The image index is 2, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.795515701174736 
+The image's natural score is:0.1316525936126709 
+
+resnet says it is it is not a convertible car,and the probability is:0.9915407039225101 
+The image's natural score is:0.1797940582036972 
+
+resnet says it is a convertible car,and the probability is:0.36794382333755493 
+The image's natural score is:0.2246309518814087 
+
+resnet says it is it is not a convertible car,and the probability is:0.8399206399917603 
+The image's natural score is:0.29040637612342834 
+
+The image index is 2, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9253854006528854 
+The image's natural score is:0.17917367815971375 
+
+resnet says it is it is not a convertible car,and the probability is:0.8464487940073013 
+The image's natural score is:0.20342017710208893 
+
+resnet says it is it is not a convertible car,and the probability is:0.7594051957130432 
+The image's natural score is:0.1859591156244278 
+
+resnet says it is a convertible car,and the probability is:0.4610155522823334 
+The image's natural score is:0.23258839547634125 
+
+The image index is 3, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.8964797109365463 
+The image's natural score is:0.319109708070755 
+
+resnet says it is it is not a convertible car,and the probability is:0.9649838916957378 
+The image's natural score is:0.2055443525314331 
+
+resnet says it is it is not a convertible car,and the probability is:0.6025850176811218 
+The image's natural score is:0.08451082557439804 
+
+resnet says it is a convertible car,and the probability is:0.5486154556274414 
+The image's natural score is:0.06032496318221092 
+
+The image index is 3, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.8170838356018066 
+The image's natural score is:0.3880407512187958 
+
+resnet says it is it is not a convertible car,and the probability is:0.9359950944781303 
+The image's natural score is:0.4005827307701111 
+
+resnet says it is it is not a convertible car,and the probability is:0.8232719153165817 
+The image's natural score is:0.0187928956001997 
+
+resnet says it is it is not a convertible car,and the probability is:0.7858761548995972 
+The image's natural score is:0.13741885125637054 
+
+The image index is 0, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.7694891542196274 
+The image's natural score is:0.11977818608283997 
+
+resnet says it is it is not a convertible car,and the probability is:0.932206504046917 
+The image's natural score is:0.13143791258335114 
+
+resnet says it is it is not a convertible car,and the probability is:0.9148077592253685 
+The image's natural score is:0.07165845483541489 
+
+resnet says it is a convertible car,and the probability is:0.2760520875453949 
+The image's natural score is:0.19377045333385468 
+
+The image index is 0, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.8463453948497772 
+The image's natural score is:0.2020832896232605 
+
+resnet says it is it is not a convertible car,and the probability is:0.9716412574052811 
+The image's natural score is:0.14121529459953308 
+
+resnet says it is it is not a convertible car,and the probability is:0.896394744515419 
+The image's natural score is:0.1325545310974121 
+
+resnet says it is it is not a convertible car,and the probability is:0.9682988747954369 
+The image's natural score is:0.18322180211544037 
+
+The image index is 1, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9375051707029343 
+The image's natural score is:0.4545731246471405 
+
+resnet says it is it is not a convertible car,and the probability is:0.8677505552768707 
+The image's natural score is:0.4470115005970001 
+
+resnet says it is a convertible car,and the probability is:0.4026303291320801 
+The image's natural score is:0.04538261890411377 
+
+resnet says it is it is not a convertible car,and the probability is:0.7850585132837296 
+The image's natural score is:0.045735374093055725 
+
+The image index is 1, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.8638874888420105 
+The image's natural score is:0.30571770668029785 
+
+resnet says it is a convertible car,and the probability is:0.5116216540336609 
+The image's natural score is:0.3855898678302765 
+
+resnet says it is a convertible car,and the probability is:0.5933481454849243 
+The image's natural score is:0.1884474754333496 
+
+resnet says it is a convertible car,and the probability is:0.5190145373344421 
+The image's natural score is:0.20079565048217773 
+
+The image index is 2, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9826685767620802 
+The image's natural score is:0.12373778969049454 
+
+resnet says it is it is not a convertible car,and the probability is:0.9781737253069878 
+The image's natural score is:0.21926249563694 
+
+resnet says it is a convertible car,and the probability is:0.4070827066898346 
+The image's natural score is:0.15115511417388916 
+
+resnet says it is a convertible car,and the probability is:0.3954843282699585 
+The image's natural score is:0.1883256733417511 
+
+The image index is 2, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9979809776414186 
+The image's natural score is:0.05009131133556366 
+
+resnet says it is it is not a convertible car,and the probability is:0.9985036829020828 
+The image's natural score is:0.1710287630558014 
+
+resnet says it is a convertible car,and the probability is:0.6662397384643555 
+The image's natural score is:0.2760036289691925 
+
+resnet says it is it is not a convertible car,and the probability is:0.7985552549362183 
+The image's natural score is:0.08170127868652344 
+
+The image index is 3, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.823078379034996 
+The image's natural score is:0.36043718457221985 
+
+resnet says it is it is not a convertible car,and the probability is:0.972314577549696 
+The image's natural score is:0.43166354298591614 
+
+resnet says it is a convertible car,and the probability is:0.44946256279945374 
+The image's natural score is:0.025427425280213356 
+
+resnet says it is it is not a convertible car,and the probability is:0.9224579259753227 
+The image's natural score is:0.018932171165943146 
+
+The image index is 3, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9493139944970608 
+The image's natural score is:0.24548056721687317 
+
+resnet says it is a convertible car,and the probability is:0.46200495958328247 
+The image's natural score is:0.4375634789466858 
+
+resnet says it is it is not a convertible car,and the probability is:0.6963990330696106 
+The image's natural score is:0.09199932217597961 
+
+resnet says it is it is not a convertible car,and the probability is:0.8573142141103745 
+The image's natural score is:0.034631915390491486 
+
+The image index is 0, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.8907662630081177 
+The image's natural score is:0.2414426952600479 
+
+resnet says it is it is not a convertible car,and the probability is:0.9633743986487389 
+The image's natural score is:0.10901907831430435 
+
+resnet says it is it is not a convertible car,and the probability is:0.7469437122344971 
+The image's natural score is:0.16720236837863922 
+
+resnet says it is it is not a convertible car,and the probability is:0.7064690589904785 
+The image's natural score is:0.06522564589977264 
+
+The image index is 0, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9796085432171822 
+The image's natural score is:0.2537181079387665 
+
+resnet says it is it is not a convertible car,and the probability is:0.9758770447224379 
+The image's natural score is:0.13948588073253632 
+
+resnet says it is a convertible car,and the probability is:0.49887844920158386 
+The image's natural score is:0.06425914913415909 
+
+resnet says it is it is not a convertible car,and the probability is:0.8630426228046417 
+The image's natural score is:0.08048401772975922 
+
+The image index is 1, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9843912292271852 
+The image's natural score is:0.23610758781433105 
+
+resnet says it is it is not a convertible car,and the probability is:0.9845390869304538 
+The image's natural score is:0.30332523584365845 
+
+resnet says it is a convertible car,and the probability is:0.5772551894187927 
+The image's natural score is:0.07121257483959198 
+
+resnet says it is it is not a convertible car,and the probability is:0.6925522089004517 
+The image's natural score is:0.13050003349781036 
+
+The image index is 1, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9789370261132717 
+The image's natural score is:0.22070573270320892 
+
+resnet says it is it is not a convertible car,and the probability is:0.9935404877178371 
+The image's natural score is:0.1772848516702652 
+
+resnet says it is it is not a convertible car,and the probability is:0.7722723633050919 
+The image's natural score is:0.17504379153251648 
+
+resnet says it is a convertible car,and the probability is:0.29912665486335754 
+The image's natural score is:0.1211036890745163 
+
+The image index is 2, current round is 1.
+resnet says it is a convertible car,and the probability is:0.45059001445770264 
+The image's natural score is:0.24865104258060455 
+
+resnet says it is it is not a convertible car,and the probability is:0.9350989013910294 
+The image's natural score is:0.16030946373939514 
+
+resnet says it is a convertible car,and the probability is:0.8868831396102905 
+The image's natural score is:0.14676137268543243 
+
+resnet says it is a convertible car,and the probability is:0.8916416168212891 
+The image's natural score is:0.18351703882217407 
+
+The image index is 2, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.7515805512666702 
+The image's natural score is:0.4455629289150238 
+
+resnet says it is a convertible car,and the probability is:0.5446902513504028 
+The image's natural score is:0.4251250922679901 
+
+resnet says it is a convertible car,and the probability is:0.6414067149162292 
+The image's natural score is:0.2218639999628067 
+
+resnet says it is a convertible car,and the probability is:0.38513651490211487 
+The image's natural score is:0.26042166352272034 
+
+The image index is 3, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.897423081099987 
+The image's natural score is:0.32467466592788696 
+
+resnet says it is it is not a convertible car,and the probability is:0.9696485660970211 
+The image's natural score is:0.3015357553958893 
+
+resnet says it is a convertible car,and the probability is:0.5790508389472961 
+The image's natural score is:0.23856985569000244 
+
+resnet says it is it is not a convertible car,and the probability is:0.7486583590507507 
+The image's natural score is:0.09126420319080353 
+
+The image index is 3, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9350817278027534 
+The image's natural score is:0.08462493866682053 
+
+resnet says it is it is not a convertible car,and the probability is:0.9814156796783209 
+The image's natural score is:0.30698275566101074 
+
+resnet says it is it is not a convertible car,and the probability is:0.8069873303174973 
+The image's natural score is:0.04596370458602905 
+
+resnet says it is it is not a convertible car,and the probability is:0.6869902312755585 
+The image's natural score is:0.15661755204200745 
+
+The image index is 0, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9209436997771263 
+The image's natural score is:0.19942429661750793 
+
+resnet says it is it is not a convertible car,and the probability is:0.9420812502503395 
+The image's natural score is:0.3946693539619446 
+
+resnet says it is a convertible car,and the probability is:0.7884101271629333 
+The image's natural score is:0.27311593294143677 
+
+resnet says it is a convertible car,and the probability is:0.5005019307136536 
+The image's natural score is:0.42381516098976135 
+
+The image index is 0, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.7818372845649719 
+The image's natural score is:0.22334256768226624 
+
+resnet says it is it is not a convertible car,and the probability is:0.9035008177161217 
+The image's natural score is:0.321076899766922 
+
+resnet says it is a convertible car,and the probability is:0.8021324276924133 
+The image's natural score is:0.1969524621963501 
+
+resnet says it is a convertible car,and the probability is:0.6913014054298401 
+The image's natural score is:0.08491531759500504 
+
+The image index is 1, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9852219307795167 
+The image's natural score is:0.2518570125102997 
+
+resnet says it is it is not a convertible car,and the probability is:0.9864687658846378 
+The image's natural score is:0.18799416720867157 
+
+resnet says it is a convertible car,and the probability is:0.41315585374832153 
+The image's natural score is:0.03956702724099159 
+
+resnet says it is it is not a convertible car,and the probability is:0.6553456485271454 
+The image's natural score is:0.07162860780954361 
+
+The image index is 1, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.8867479935288429 
+The image's natural score is:0.33929330110549927 
+
+resnet says it is it is not a convertible car,and the probability is:0.9699447639286518 
+The image's natural score is:0.2371741086244583 
+
+resnet says it is it is not a convertible car,and the probability is:0.7952286303043365 
+The image's natural score is:0.07052115350961685 
+
+resnet says it is it is not a convertible car,and the probability is:0.8989351764321327 
+The image's natural score is:0.06433118134737015 
+
+The image index is 2, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.8303644210100174 
+The image's natural score is:0.3468894958496094 
+
+resnet says it is it is not a convertible car,and the probability is:0.6805261075496674 
+The image's natural score is:0.4405107796192169 
+
+resnet says it is a convertible car,and the probability is:0.604380190372467 
+The image's natural score is:0.11347578465938568 
+
+resnet says it is a convertible car,and the probability is:0.37328964471817017 
+The image's natural score is:0.13954074680805206 
+
+The image index is 2, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.7613547146320343 
+The image's natural score is:0.47762662172317505 
+
+resnet says it is it is not a convertible car,and the probability is:0.861771821975708 
+The image's natural score is:0.4303222894668579 
+
+resnet says it is a convertible car,and the probability is:0.49654635787010193 
+The image's natural score is:0.18176516890525818 
+
+resnet says it is it is not a convertible car,and the probability is:0.6875613927841187 
+The image's natural score is:0.18995781242847443 
+
+The image index is 3, current round is 1.
+resnet says it is a convertible car,and the probability is:0.307545930147171 
+The image's natural score is:0.44849827885627747 
+
+resnet says it is a convertible car,and the probability is:0.3924807906150818 
+The image's natural score is:0.3572465181350708 
+
+resnet says it is a convertible car,and the probability is:0.857720136642456 
+The image's natural score is:0.30886533856391907 
+
+resnet says it is a convertible car,and the probability is:0.6280561685562134 
+The image's natural score is:0.28382787108421326 
+
+The image index is 3, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9163634926080704 
+The image's natural score is:0.19074253737926483 
+
+resnet says it is it is not a convertible car,and the probability is:0.8914851769804955 
+The image's natural score is:0.38899409770965576 
+
+resnet says it is a convertible car,and the probability is:0.7632092833518982 
+The image's natural score is:0.05658235400915146 
+
+resnet says it is a convertible car,and the probability is:0.5478809475898743 
+The image's natural score is:0.08485758304595947 
+
+The image index is 0, current round is 1.
+resnet says it is a convertible car,and the probability is:0.5487584471702576 
+The image's natural score is:0.06277399510145187 
+
+resnet says it is a convertible car,and the probability is:0.6917315721511841 
+The image's natural score is:0.1512552946805954 
+
+resnet says it is a convertible car,and the probability is:0.4619103968143463 
+The image's natural score is:0.018829289823770523 
+
+resnet says it is it is not a convertible car,and the probability is:0.9350190162658691 
+The image's natural score is:0.0666983425617218 
+
+The image index is 0, current round is 2.
+resnet says it is a convertible car,and the probability is:0.7870180606842041 
+The image's natural score is:0.17999154329299927 
+
+resnet says it is a convertible car,and the probability is:0.5677148103713989 
+The image's natural score is:0.13087303936481476 
+
+resnet says it is a convertible car,and the probability is:0.7006176710128784 
+The image's natural score is:0.08163956552743912 
+
+resnet says it is it is not a convertible car,and the probability is:0.8510559797286987 
+The image's natural score is:0.17223981022834778 
+
+The image index is 1, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.8828963041305542 
+The image's natural score is:0.12380386888980865 
+
+resnet says it is it is not a convertible car,and the probability is:0.9577268958091736 
+The image's natural score is:0.16792890429496765 
+
+resnet says it is it is not a convertible car,and the probability is:0.8668355643749237 
+The image's natural score is:0.33532077074050903 
+
+resnet says it is it is not a convertible car,and the probability is:0.7388414442539215 
+The image's natural score is:0.2024499475955963 
+
+The image index is 1, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9463197588920593 
+The image's natural score is:0.11406246572732925 
+
+resnet says it is it is not a convertible car,and the probability is:0.9587135575711727 
+The image's natural score is:0.302452951669693 
+
+resnet says it is a convertible car,and the probability is:0.3379773497581482 
+The image's natural score is:0.142594575881958 
+
+resnet says it is it is not a convertible car,and the probability is:0.901490181684494 
+The image's natural score is:0.14530141651630402 
+
+The image index is 2, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.8333310186862946 
+The image's natural score is:0.24516858160495758 
+
+resnet says it is it is not a convertible car,and the probability is:0.7915719449520111 
+The image's natural score is:0.1345510631799698 
+
+resnet says it is a convertible car,and the probability is:0.5651230216026306 
+The image's natural score is:0.016309401020407677 
+
+resnet says it is a convertible car,and the probability is:0.46872711181640625 
+The image's natural score is:0.0056644403375685215 
+
+The image index is 2, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.6578955054283142 
+The image's natural score is:0.24750538170337677 
+
+resnet says it is a convertible car,and the probability is:0.37436747550964355 
+The image's natural score is:0.17711955308914185 
+
+resnet says it is a convertible car,and the probability is:0.5251179933547974 
+The image's natural score is:0.019881663843989372 
+
+resnet says it is a convertible car,and the probability is:0.5467807054519653 
+The image's natural score is:0.018164535984396935 
+
+The image index is 3, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9300413206219673 
+The image's natural score is:0.2975328266620636 
+
+resnet says it is it is not a convertible car,and the probability is:0.9778741970658302 
+The image's natural score is:0.18115264177322388 
+
+resnet says it is it is not a convertible car,and the probability is:0.928744375705719 
+The image's natural score is:0.07395710051059723 
+
+resnet says it is it is not a convertible car,and the probability is:0.97186447866261 
+The image's natural score is:0.053487714380025864 
+
+The image index is 3, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.6875758171081543 
+The image's natural score is:0.19940897822380066 
+
+resnet says it is it is not a convertible car,and the probability is:0.6887393593788147 
+The image's natural score is:0.08470160514116287 
+
+resnet says it is it is not a convertible car,and the probability is:0.9084194079041481 
+The image's natural score is:0.004611669573932886 
+
+resnet says it is it is not a convertible car,and the probability is:0.7377937734127045 
+The image's natural score is:0.0015521612949669361 
+
+The image index is 4, current round is 1.
+resnet says it is it is not a convertible car,and the probability is:0.9694988131523132 
+The image's natural score is:0.16364049911499023 
+
+resnet says it is it is not a convertible car,and the probability is:0.7948031723499298 
+The image's natural score is:0.02608937956392765 
+
+resnet says it is it is not a convertible car,and the probability is:0.8971485495567322 
+The image's natural score is:0.12771572172641754 
+
+resnet says it is it is not a convertible car,and the probability is:0.9288546741008759 
+The image's natural score is:0.155718132853508 
+
+The image index is 4, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9384983070194721 
+The image's natural score is:0.3369363844394684 
+
+resnet says it is it is not a convertible car,and the probability is:0.9106359556317329 
+The image's natural score is:0.18606561422348022 
+
+resnet says it is it is not a convertible car,and the probability is:0.7669518738985062 
+The image's natural score is:0.118179090321064 
+
+resnet says it is a convertible car,and the probability is:0.35090622305870056 
+The image's natural score is:0.1088060736656189 
+
+The image index is 5, current round is 1.
+resnet says it is a convertible car,and the probability is:0.6223548054695129 
+The image's natural score is:0.12057340145111084 
+
+resnet says it is it is not a convertible car,and the probability is:0.8658159524202347 
+The image's natural score is:0.4341249167919159 
+
+resnet says it is a convertible car,and the probability is:0.3547755479812622 
+The image's natural score is:0.12692201137542725 
+
+resnet says it is it is not a convertible car,and the probability is:0.9711266234517097 
+The image's natural score is:0.028497541323304176 
+
+The image index is 5, current round is 2.
+resnet says it is it is not a convertible car,and the probability is:0.9244866743683815 
+The image's natural score is:0.04594428092241287 
+
+resnet says it is it is not a convertible car,and the probability is:0.9752130825072527 
+The image's natural score is:0.16642002761363983 
+
+resnet says it is it is not a convertible car,and the probability is:0.9531385339796543 
+The image's natural score is:0.05910361930727959 
+
+resnet says it is it is not a convertible car,and the probability is:0.9212651178240776 
+The image's natural score is:0.010239320807158947 
+
